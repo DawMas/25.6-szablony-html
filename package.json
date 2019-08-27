@@ -1,0 +1,23 @@
+{
+  "name": "25.6_szablony_html",
+  "version": "1.0.0",
+  "description": "00",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DawMas/25.6-szablony-html.git"
+  },
+  "author": "dave",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DawMas/25.6-szablony-html/issues"
+  },
+  "homepage": "https://github.com/DawMas/25.6-szablony-html#readme",
+  "dependencies": {
+    "pug": "^2.0.4",
+    "express": "^4.17.1"
+  }
+}
