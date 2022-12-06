@@ -18,6 +18,6 @@
   "homepage": "https://github.com/DawMas/25.6-szablony-html#readme",
   "dependencies": {
     "pug": "^2.0.4",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
